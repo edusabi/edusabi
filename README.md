@@ -20,6 +20,6 @@ https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&amp;logo=fireba
 
 https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 
-https://img.shields.io/badge/EJS-2B2D2E?style=for-the-badge&amp;logo=ejs&amp;logoColor=A8B9CC
+<img src="https://camo.githubusercontent.com/37ee8a3022943fecdef8b580d713bb50abcf84a97ac3665c09ec4d5011be3344/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f454a532d3242324432453f7374796c653d666f722d7468652d6261646765266c6f676f3d656a73266c6f676f436f6c6f723d413842394343" alt="EJS Badge" data-canonical-src="https://img.shields.io/badge/EJS-2B2D2E?style=for-the-badge&amp;logo=ejs&amp;logoColor=A8B9CC" style="max-width: 100%;">
 
 
