@@ -15,9 +15,7 @@ Eu amo técnologia e jogos, desde pequeno sempre tive essa obsessão e paixão p
   
 <img src="https://camo.githubusercontent.com/7a78be6671a8f55a1937bb2c1b4ffdbab5057fd953539705e530f95218d77e37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.JS Badge" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;">
 
-<img src="[MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)">
-
-
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 <img src="https://camo.githubusercontent.com/4912b34d2a0c3d279f4abc1c39e75a2cdcbf874433796a72745dda64efb68df7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" alt="Express.JS Badge" data-canonical-src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" style="max-width: 100%;">
