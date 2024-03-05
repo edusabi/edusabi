@@ -45,4 +45,7 @@ Eu amo técnologia e jogos, desde pequeno sempre tive essa obsessão e paixão p
 ## Meus status
 ![EduardoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=edusabi&show_icons=true&theme=radical)  
 
+## Minhas top's linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&layout=compact)
+
 
