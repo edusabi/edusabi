@@ -2,7 +2,7 @@
 
 Eu amo técnologia e jogos, desde pequeno sempre tive essa obsessão e paixão por tudo isso. Possuo curso técnico de desenvolvimento de sistemas e altuamente estou fazendo a graduação de Ciências da Computação na Wyden.
 
-<div style="aling-itens: center; ">
+<div aling="center">
 ## Técnologias , bancos de dados e frameWorks que estou utilizando atualmente
   
 </div>
