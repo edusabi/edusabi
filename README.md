@@ -32,11 +32,7 @@ Eu amo técnologia e jogos, desde pequeno sempre tive essa obsessão e paixão p
 
 <div>
 
-  <a hrfe="https://www.linkedin.com/in/lu%C3%ADs-eduardo-b20232241/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/lu%C3%ADs-eduardo-b20232241/" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lu%C3%ADs-eduardo-b20232241/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <a href="https://www.instagram.com/eduardodevv/" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
