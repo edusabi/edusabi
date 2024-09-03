@@ -1,4 +1,4 @@
-## Hello, eu sou Luís Eduardo ou pode me chamar de Edu!
+## Hello, eu sou Luís Eduardo, pode me chamar de Edu!
 
 Eu amo técnologia e jogos, desde pequeno sempre tive essa obsessão e paixão por tudo isso. Possuo curso técnico em desenvolvimento de sistemas e altuamente estou cursando a graduação de Ciências da Computação na Wyden.
 
