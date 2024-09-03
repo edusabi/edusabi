@@ -1,4 +1,3 @@
-<div align="center" style="margin-bottom:100px>
 ## Hello, eu sou Luís Eduardo ou pode me chamar de Edu!
 
 Eu amo técnologia e jogos, desde pequeno sempre tive essa obsessão e paixão por tudo isso. Possuo curso técnico em desenvolvimento de sistemas e altuamente estou cursando a graduação de Ciências da Computação na Wyden.
@@ -45,7 +44,5 @@ Eu amo técnologia e jogos, desde pequeno sempre tive essa obsessão e paixão p
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=edusabi&theme=radical&mode=weekly" />
 </div>
 
-
- </div>
 
 
