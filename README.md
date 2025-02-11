@@ -1,4 +1,4 @@
-<h2 align="center">Hello, eu sou Luís Eduardo, pode me chamar de Edu!</h2>
+<h2 align="center">Olá, eu sou Luís Eduardo, pode me chamar de Edu!</h2>
 
 <p align="center">
   Eu amo tecnologia e jogos, desde pequeno sempre tive essa obsessão e paixão por tudo isso. <br>
