@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=gotham&show_icons=true&hide_title=true&locale=pt-br&langs_count=16&layout=donut" alt="GitHub"/>
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=gotham&show_icons=true&hide_title=true&locale=pt-br&langs_count=16&layout=donut" alt="GitHub"/>
 
 ![EduardoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=edusabi&show_icons=true&theme=radical)  
 
