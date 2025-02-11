@@ -50,6 +50,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=dark&show_icons=true&hide_border=true&locale=pt-br&langs_count=16&layout=donut" alt="GitHub"/>
+<img width="30%" src="https://camo.githubusercontent.com/c318da27e7196c9003a3726a75f59dcedceb37f3e63fb324d3a018735d527f8b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b6576656e736f757a7a266c616e67735f636f756e743d3230266c61796f75743d646f6e7574267468656d653d676f7468616d26686964655f626f726465723d7472756526686964655f7469746c653d74727565" alt="edusabi :: overall Top Langs " data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&amp;langs_count=20&amp;layout=donut&amp;theme=gotham&amp;hide_border=true&amp;hide_title=true" style="max-width: 100%;">
 
 </div>
