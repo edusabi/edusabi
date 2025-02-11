@@ -54,6 +54,4 @@
 
 ![EduardoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=edusabi&show_icons=true&theme=radical)  
 
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edusabi&theme=radical&mode=weekly" />
-
 </div>
