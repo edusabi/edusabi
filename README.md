@@ -53,6 +53,6 @@
      style="width: 400px; margin-bottom: 1rem;">
 
 
-![EduardoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=edusabi&show_icons=true&theme=radical)  
+![EduardoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=edusabi&show_icons=true&theme=radical&cache_seconds=1800) 
 
 </div>
