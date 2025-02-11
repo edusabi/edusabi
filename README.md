@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=gotham&show_icons=true&hide_title=true&locale=pt-br&langs_count=16&layout=donut" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=gotham&show_icons=true&hide_title=true&locale=pt-br&langs_count=16&layout=donut&cache_seconds=1800" 
      alt="GitHub" 
      style="width: 400px; margin-bottom: 1rem;">
 
@@ -48,7 +48,5 @@
 ![EduardoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=edusabi&show_icons=true&theme=radical)  
 
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edusabi&theme=radical&mode=weekly" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&layout=compact)
 
 </div>
