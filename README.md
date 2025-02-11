@@ -47,3 +47,9 @@
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edusabi&theme=radical&mode=weekly" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=dark&show_icons=true&hide_border=true&locale=pt-br&langs_count=16&layout=donut" alt="GitHub"/>
+
+</div>
