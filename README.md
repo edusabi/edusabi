@@ -40,7 +40,10 @@
 
 <div align="center">
 
-<img width="400px" marginBottom="1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=gotham&show_icons=true&hide_title=true&locale=pt-br&langs_count=16&layout=donut" alt="GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=gotham&show_icons=true&hide_title=true&locale=pt-br&langs_count=16&layout=donut" 
+     alt="GitHub" 
+     style="width: 400px; margin-bottom: 1rem;">
+
 
 ![EduardoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=edusabi&show_icons=true&theme=radical)  
 
