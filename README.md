@@ -49,6 +49,4 @@
 
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edusabi&theme=radical&mode=weekly" />
 
-<img width="45%" src="https://camo.githubusercontent.com/c35c456d8fc0fb5009780362520ee6dae04b6652d3cbf2413151e73e5b02a8fe/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d6b6576656e736f757a7a267468656d653d676f7468616d266c61796f75743d636f6d70616374" alt="edusabi :: Top Langs by repo" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edusabi&amp;theme=gotham&amp;layout=compact" style="max-width: 100%;">
-
 </div>
