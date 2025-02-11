@@ -36,7 +36,7 @@
 
 </div>
 
-## 📊 Meus status  
+<h2 align="center">📊 Meus status</h2>   
 
 <div align="center">
 
