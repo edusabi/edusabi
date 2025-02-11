@@ -22,7 +22,7 @@
 
 </div>
 
-## 📱 Minhas redes sociais  
+<h2 align="center">📱 Minhas redes sociais</h2> 
 
 <div align="center">
 
