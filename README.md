@@ -48,9 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=gotham&show_icons=true&hide_title=true&locale=pt-br&langs_count=16&layout=donut&cache_seconds=1800" 
-     alt="GitHub" 
-     style="width: 400px; margin-bottom: 1rem;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi)](https://github.com/edusabi/github-readme-stats)
 
 
 ![EduardoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=edusabi&show_icons=true&theme=radical&cache_seconds=1800) 
