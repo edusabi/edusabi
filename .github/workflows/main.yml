@@ -1,26 +1,26 @@
-name: Update GitHub Stats
+  name: Update GitHub Stats
+  
+  on:
+    schedule:
+      - cron: "0 */12 * * *"  # Atualiza a cada 12 horas
+    workflow_dispatch:  # Permite rodar manualmente
+  
+  jobs:
+    update-readme:
+      runs-on: ubuntu-latest
+  
+      steps:
+        - name: Checkout do repositório
+          uses: actions/checkout@v3
+  
+        - name: Atualizar README
+          run: |
+            curl -o README.md "https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&count_private=true&token=${{ secrets.GH_STATS_TOKEN }}"
+  
+        - name: Commit and Push Changes
+          run: |
+            git add README.md
+            git commit -m "Atualizando GitHub Stats 🚀" || exit 0  # Evita erro se não houver alterações
+            git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # Atualiza a cada 12 horas
-  workflow_dispatch:  # Permite rodar manualmente
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
-
-      - name: Atualizar README
-        run: |
-          curl -o README.md "https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&count_private=true&token=${{ secrets.GH_STATS_TOKEN }}"
-
-      - name: Commit e Push
-        run: |
-          git config --global user.name "edusabi"
-          git config --global user.email "luis_100404@hotmail.com"
-          git add README.md
-          git commit -m "Atualizando GitHub Stats 🚀" || exit 0
-          git push
