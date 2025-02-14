@@ -19,8 +19,8 @@ jobs:
 
       - name: Commit e Push
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "edusabi"
+          git config --global user.email "luis_100404@hotmail.com"
           git add README.md
           git commit -m "Atualizando GitHub Stats 🚀" || exit 0
           git push
