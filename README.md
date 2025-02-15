@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&hide_title=true&cache_seconds=1800&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&show_icons=true&hide_border=true&locale=pt-br&hide_title=true&langs_count=20&layout=donut&theme=dark)
 
 
 ![EduardoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=edusabi&show_icons=true&theme=dark&cache_seconds=1800) 
