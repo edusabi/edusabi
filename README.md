@@ -48,7 +48,8 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&hide_progress=true&cache_seconds=1800)
+![GitHub Stats Pie](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edusabi&theme=github)
+
 
 <img data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edusabi&amp;theme=transparent" style="max-width: 100%;">
 
