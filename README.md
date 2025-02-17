@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img width="30%" src="https://camo.githubusercontent.com/" alt="edusabi :: overall Top Langs " data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&amp;langs_count=20&amp;layout=donut&amp;theme=gotham&amp;hide_border=true&amp;hide_title=true" style="max-width: 100%;">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&hide_progress=true&cache_seconds=1800)
 
 <img data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edusabi&amp;theme=transparent" style="max-width: 100%;">
 
