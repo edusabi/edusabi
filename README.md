@@ -48,10 +48,8 @@
 
 <div align="center">
 
-<div>
 ![GitHub Stats Pie](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edusabi&theme=dark&hide_progress=true&cache_seconds=1800)
   
-</div>
 
 
 <img data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edusabi&amp;theme=transparent" style="max-width: 100%;">
