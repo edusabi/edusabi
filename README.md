@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![GitHub Stats Pie](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edusabi&theme=dark&hide_progress=true&cache_seconds=1800)
+![GitHub Stats Pie](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edusabi&theme=dark&hide_progress=true&cache_seconds=1800&locale=pt-br)
   
 
 
