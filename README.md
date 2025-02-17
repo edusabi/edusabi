@@ -52,7 +52,7 @@
 
 <img data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edusabi&amp;theme=transparent" style="max-width: 100%;">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edusabi&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edusabi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![EduardoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=edusabi&show_icons=true&theme=dark&cache_seconds=1800) 
 
