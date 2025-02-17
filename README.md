@@ -49,9 +49,9 @@
 <div align="center">
 
 ![GitHub Stats Pie](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edusabi&theme=dark&hide_progress=true&cache_seconds=1800&locale=pt-br)
-  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edusabi)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=dark&show_icons=true&hide_border=true&locale=pt-br&langs_count=16&layout=donut" alt="GitHub"/>
+  
 <img data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edusabi&amp;theme=transparent" style="max-width: 100%;">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edusabi&theme=xcode&width=500px)](https://github.com/ashutosh00710/github-readme-activity-graph)
