@@ -47,10 +47,11 @@
 <h2 align="center">📊 Meus status</h2>   
 
 <div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=dark&show_icons=true&hide_border=true&locale=pt-br&langs_count=16&layout=donut" alt="GitHub"/>
 
 ![GitHub Stats Pie](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edusabi&theme=dark&hide_progress=true&cache_seconds=1800&locale=pt-br)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=dark&show_icons=true&hide_border=true&locale=pt-br&langs_count=16&layout=donut" alt="GitHub"/>
   
 <img data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edusabi&amp;theme=transparent" style="max-width: 100%;">
 
