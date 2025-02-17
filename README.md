@@ -50,7 +50,7 @@
 
 ![GitHub Stats Pie](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edusabi&theme=dark&hide_progress=true&cache_seconds=1800&locale=pt-br)
   
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edusabi)](https://github.com/edusabi/github-readme-stats)
 
 <img data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edusabi&amp;theme=transparent" style="max-width: 100%;">
 
