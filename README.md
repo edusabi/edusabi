@@ -5,11 +5,9 @@
   Possuo curso técnico em desenvolvimento de sistemas e atualmente estou cursando a graduação de Ciências da Computação na Wyden.
 </p>
 
-<p align="center">
 <h1 align="center">
   🚀 Tecnologias que estou utilizando atualmente!
 </h1>   
-</p>
 
 <div align="center">
 
