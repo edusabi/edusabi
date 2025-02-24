@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<h1>
+<h1 align="center">
   🚀 Tecnologias que estou utilizando atualmente!
 </h1>   
 </p>
