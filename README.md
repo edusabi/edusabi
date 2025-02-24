@@ -5,7 +5,10 @@
   Possuo curso técnico em desenvolvimento de sistemas e atualmente estou cursando a graduação de Ciências da Computação na Wyden.
 </p>
 
+<p align="center">
 ## 🚀 Tecnologias que estou utilizando atualmente!  
+</p>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
