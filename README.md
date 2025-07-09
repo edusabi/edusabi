@@ -51,7 +51,7 @@
 
 <div align="center">
   
-![GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=dark&show_icons=true&hide_border=true&locale=pt-br&langs_count=16&layout=compact&cache_seconds=3600)
+![GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=edusabi&theme=dark&show_icons=true&hide_border=true&locale=pt-br&langs_count=16&layout=compact&cache_seconds=3600&hide=CSS)
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edusabi&theme=dark&hide_progress=true&cache_seconds=1800&locale=pt-br" alt="GitHub Stats Pie">
